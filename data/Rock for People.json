@@ -1,0 +1,957 @@
+{
+   "name":"Rock for People",
+   "location":"Hradec Králove",
+   "startDate":"2023-06-08 00:00:00.000",
+   "endDate":"2023-06-11 23:59:00.000",
+   "stages":[
+      {
+         "name":"KB",
+         "events":[
+            {
+               "name":"I Prevail",
+               "startDateTime":"2023-06-08 16:10:00.000",
+               "endDateTime":"2023-06-08 17:10:00.000",
+               "notify":false
+            },
+            {
+               "name":"Lorna Shore",
+               "startDateTime":"2023-06-08 14:15:00.000",
+               "endDateTime":"2023-06-08 15:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Slipknot",
+               "startDateTime":"2023-06-08 21:30:00.000",
+               "endDateTime":"2023-06-08 23:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Architects",
+               "startDateTime":"2023-06-08 18:30:00.000",
+               "endDateTime":"2023-06-08 19:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"Machine Gun Kelly",
+               "startDateTime":"2023-06-09 23:30:00.000",
+               "endDateTime":"2023-06-10 01:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Mod Sun",
+               "startDateTime":"2023-06-09 15:35:00.000",
+               "endDateTime":"2023-06-09 16:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"Hollywood Undead",
+               "startDateTime":"2023-06-09 17:30:00.000",
+               "endDateTime":"2023-06-09 18:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"Billy Talent",
+               "startDateTime":"2023-06-09 20:15:00.000",
+               "endDateTime":"2023-06-09 21:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"Set It Off",
+               "startDateTime":"2023-06-09 13:55:00.000",
+               "endDateTime":"2023-06-09 14:40:00.000",
+               "notify":false
+            },
+            {
+               "name":"Wohnout",
+               "startDateTime":"2023-06-10 15:30:00.000",
+               "endDateTime":"2023-06-10 16:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"Papa Roach",
+               "startDateTime":"2023-06-10 20:15:00.000",
+               "endDateTime":"2023-06-10 21:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"Giant Rooks",
+               "startDateTime":"2023-06-10 13:50:00.000",
+               "endDateTime":"2023-06-10 14:35:00.000",
+               "notify":false
+            },
+            {
+               "name":"X Ambassadors",
+               "startDateTime":"2023-06-10 17:30:00.000",
+               "endDateTime":"2023-06-10 18:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"The 1975",
+               "startDateTime":"2023-06-10 23:30:00.000",
+               "endDateTime":"2023-06-11 01:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"The Warning",
+               "startDateTime":"2023-06-11 13:05:00.000",
+               "endDateTime":"2023-06-11 13:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"Nova Twins",
+               "startDateTime":"2023-06-11 14:35:00.000",
+               "endDateTime":"2023-06-11 15:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"Incubus",
+               "startDateTime":"2023-06-11 18:35:00.000",
+               "endDateTime":"2023-06-11 19:50:00.000",
+               "notify":false
+            },
+            {
+               "name":"Nothing But Thieves",
+               "startDateTime":"2023-06-11 16:15:00.000",
+               "endDateTime":"2023-06-11 17:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"Muse",
+               "startDateTime":"2023-06-11 21:20:00.000",
+               "endDateTime":"2023-06-11 23:00:00.000",
+               "notify":false
+            }
+         ]
+      },
+      {
+         "name":"YOUTUBE MUSIC",
+         "events":[
+            {
+               "name":"Stray From The Path",
+               "startDateTime":"2023-06-08 13:25:00.000",
+               "endDateTime":"2023-06-08 14:10:00.000",
+               "notify":false
+            },
+            {
+               "name":"Horkýže Slíže",
+               "startDateTime":"2023-06-08 15:05:00.000",
+               "endDateTime":"2023-06-08 16:05:00.000",
+               "notify":false
+            },
+            {
+               "name":"Anti-flag",
+               "startDateTime":"2023-06-08 17:15:00.000",
+               "endDateTime":"2023-06-08 18:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"Simple Plan",
+               "startDateTime":"2023-06-08 20:00:00.000",
+               "endDateTime":"2023-06-08 21:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"Vistas",
+               "startDateTime":"2023-06-09 19:00:00.000",
+               "endDateTime":"2023-06-09 20:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"The Silver Spoons",
+               "startDateTime":"2023-06-09 14:45:00.000",
+               "endDateTime":"2023-06-09 15:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"Vypsaná fixa",
+               "startDateTime":"2023-06-09 16:25:00.000",
+               "endDateTime":"2023-06-09 17:25:00.000",
+               "notify":false
+            },
+            {
+               "name":"Ashnikko",
+               "startDateTime":"2023-06-09 22:00:00.000",
+               "endDateTime":"2023-06-09 23:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"Hentai Corporation",
+               "startDateTime":"2023-06-09 13:05:00.000",
+               "endDateTime":"2023-06-09 13:50:00.000",
+               "notify":false
+            },
+            {
+               "name":"The Hunna",
+               "startDateTime":"2023-06-10 16:35:00.000",
+               "endDateTime":"2023-06-10 17:25:00.000",
+               "notify":false
+            },
+            {
+               "name":"Alice Merton",
+               "startDateTime":"2023-06-10 22:00:00.000",
+               "endDateTime":"2023-06-10 23:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"The Menzingers",
+               "startDateTime":"2023-06-10 14:40:00.000",
+               "endDateTime":"2023-06-10 15:25:00.000",
+               "notify":false
+            },
+            {
+               "name":"Picture This",
+               "startDateTime":"2023-06-10 19:00:00.000",
+               "endDateTime":"2023-06-10 20:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"From Our Hands",
+               "startDateTime":"2023-06-10 13:00:00.000",
+               "endDateTime":"2023-06-10 13:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"Ben Cristovao",
+               "startDateTime":"2023-06-11 20:05:00.000",
+               "endDateTime":"2023-06-11 21:05:00.000",
+               "notify":false
+            },
+            {
+               "name":"Barns Courtney",
+               "startDateTime":"2023-06-11 17:20:00.000",
+               "endDateTime":"2023-06-11 18:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"Man with a mission",
+               "startDateTime":"2023-06-11 15:25:00.000",
+               "endDateTime":"2023-06-11 16:10:00.000",
+               "notify":false
+            },
+            {
+               "name":"Stand Atlantic",
+               "startDateTime":"2023-06-11 12:20:00.000",
+               "endDateTime":"2023-06-11 13:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Bury Tomorrow",
+               "startDateTime":"2023-06-11 13:50:00.000",
+               "endDateTime":"2023-06-11 14:30:00.000",
+               "notify":false
+            }
+         ]
+      },
+      {
+         "name":"EVROPA 2",
+         "events":[
+            {
+               "name":"Th!s",
+               "startDateTime":"2023-06-08 13:25:00.000",
+               "endDateTime":"2023-06-08 14:10:00.000",
+               "notify":false
+            },
+            {
+               "name":"Demob Happy",
+               "startDateTime":"2023-06-08 17:15:00.000",
+               "endDateTime":"2023-06-08 18:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"Destroy Boys",
+               "startDateTime":"2023-06-08 15:05:00.000",
+               "endDateTime":"2023-06-08 16:05:00.000",
+               "notify":false
+            },
+            {
+               "name":"Nothing, nowhere.",
+               "startDateTime":"2023-06-08 23:00:00.000",
+               "endDateTime":"2023-06-09 00:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Call Me Karizma",
+               "startDateTime":"2023-06-09 14:45:00.000",
+               "endDateTime":"2023-06-09 15:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"PKF Prague Philharmonia + CLARINET FACTORY",
+               "startDateTime":"2023-06-09 13:05:00.000",
+               "endDateTime":"2023-06-09 13:50:00.000",
+               "notify":false
+            },
+            {
+               "name":"UPSAHL",
+               "startDateTime":"2023-06-09 16:25:00.000",
+               "endDateTime":"2023-06-09 17:25:00.000",
+               "notify":false
+            },
+            {
+               "name":"The Reytons",
+               "startDateTime":"2023-06-09 22:00:00.000",
+               "endDateTime":"2023-06-09 23:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"Palaye Royale",
+               "startDateTime":"2023-06-09 01:00:00.000",
+               "endDateTime":"2023-06-09 02:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"SUECO",
+               "startDateTime":"2023-06-09 19:00:00.000",
+               "endDateTime":"2023-06-09 20:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Punk Rock Factory",
+               "startDateTime":"2023-06-10 01:00:00.000",
+               "endDateTime":"2023-06-10 02:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Cocotte Minute",
+               "startDateTime":"2023-06-10 16:35:00.000",
+               "endDateTime":"2023-06-10 17:25:00.000",
+               "notify":false
+            },
+            {
+               "name":"Landmvrks",
+               "startDateTime":"2023-06-10 19:00:00.000",
+               "endDateTime":"2023-06-10 20:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"I Love You Honey Bunny",
+               "startDateTime":"2023-06-10 14:40:00.000",
+               "endDateTime":"2023-06-10 15:25:00.000",
+               "notify":false
+            },
+            {
+               "name":"While She Sleeps",
+               "startDateTime":"2023-06-10 22:00:00.000",
+               "endDateTime":"2023-06-10 23:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"Filharmonie Hradec Králové",
+               "startDateTime":"2023-06-11 12:20:00.000",
+               "endDateTime":"2023-06-11 13:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Tata Bojs",
+               "startDateTime":"2023-06-11 23:00:00.000",
+               "endDateTime":"2023-06-12 00:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Václav Neckář & Bacily",
+               "startDateTime":"2023-06-11 15:25:00.000",
+               "endDateTime":"2023-06-11 16:10:00.000",
+               "notify":false
+            },
+            {
+               "name":"The Chats",
+               "startDateTime":"2023-06-11 20:05:00.000",
+               "endDateTime":"2023-06-11 21:05:00.000",
+               "notify":false
+            },
+            {
+               "name":"Beauty School Dropout",
+               "startDateTime":"2023-06-11 13:50:00.000",
+               "endDateTime":"2023-06-11 14:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"Nothing More",
+               "startDateTime":"2023-06-11 17:20:00.000",
+               "endDateTime":"2023-06-11 18:20:00.000",
+               "notify":false
+            }
+         ]
+      },
+      {
+         "name":"ČT ART",
+         "events":[
+            {
+               "name":"AZ-KVÍZ",
+               "startDateTime":"2023-06-08 13:30:00.000",
+               "endDateTime":"2023-06-08 14:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"Hokejové MS očima komentátorů ČT",
+               "startDateTime":"2023-06-08 14:45:00.000",
+               "endDateTime":"2023-06-08 15:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"fyield",
+               "startDateTime":"2023-06-08 18:40:00.000",
+               "endDateTime":"2023-06-08 19:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"Bloodywood",
+               "startDateTime":"2023-06-08 23:00:00.000",
+               "endDateTime":"2023-06-09 00:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Terapie sdílením LIVE",
+               "startDateTime":"2023-06-08 16:00:00.000",
+               "endDateTime":"2023-06-08 18:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Taylor Acorn",
+               "startDateTime":"2023-06-08 21:35:00.000",
+               "endDateTime":"2023-06-08 22:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"Shogun Tokugawa",
+               "startDateTime":"2023-06-08 20:10:00.000",
+               "endDateTime":"2023-06-08 20:55:00.000",
+               "notify":false
+            },
+            {
+               "name":"TBA",
+               "startDateTime":"2023-06-09 18:00:00.000",
+               "endDateTime":"2023-06-09 18:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"AZ-KVÍZ",
+               "startDateTime":"2023-06-09 13:50:00.000",
+               "endDateTime":"2023-06-09 14:35:00.000",
+               "notify":false
+            },
+            {
+               "name":"underground comedy club",
+               "startDateTime":"2023-06-09 19:15:00.000",
+               "endDateTime":"2023-06-09 20:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Taneční škola stardance",
+               "startDateTime":"2023-06-09 16:45:00.000",
+               "endDateTime":"2023-06-09 17:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"ČT FILM: Flamengo Reunion Session",
+               "startDateTime":"2023-06-09 12:35:00.000",
+               "endDateTime":"2023-06-09 13:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"Listování.cz: Historky z Tinderu",
+               "startDateTime":"2023-06-09 15:05:00.000",
+               "endDateTime":"2023-06-09 16:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"Cane Hill",
+               "startDateTime":"2023-06-09 23:20:00.000",
+               "endDateTime":"2023-06-10 00:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"Dekkadancers: Muž z Malty",
+               "startDateTime":"2023-06-09 20:30:00.000",
+               "endDateTime":"2023-06-09 21:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"Sleep Token",
+               "startDateTime":"2023-06-09 01:00:00.000",
+               "endDateTime":"2023-06-09 02:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Severals",
+               "startDateTime":"2023-06-09 21:55:00.000",
+               "endDateTime":"2023-06-09 22:40:00.000",
+               "notify":false
+            },
+            {
+               "name":"Blood, Love & Rhetoric Improv Comedy",
+               "startDateTime":"2023-06-10 18:00:00.000",
+               "endDateTime":"2023-06-10 18:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"MC GEY",
+               "startDateTime":"2023-06-10 22:10:00.000",
+               "endDateTime":"2023-06-10 22:55:00.000",
+               "notify":false
+            },
+            {
+               "name":"TBA",
+               "startDateTime":"2023-06-10 16:45:00.000",
+               "endDateTime":"2023-06-10 17:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"AZ-KVÍZ",
+               "startDateTime":"2023-06-10 14:15:00.000",
+               "endDateTime":"2023-06-10 15:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Lazy Habits",
+               "startDateTime":"2023-06-10 20:45:00.000",
+               "endDateTime":"2023-06-10 21:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"Pinkbus",
+               "startDateTime":"2023-06-10 19:15:00.000",
+               "endDateTime":"2023-06-10 20:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"ČT FILM: Ivan – Král tří akordů",
+               "startDateTime":"2023-06-10 13:00:00.000",
+               "endDateTime":"2023-06-10 13:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"Válečné zpravodajství ČT",
+               "startDateTime":"2023-06-10 15:30:00.000",
+               "endDateTime":"2023-06-10 16:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"Kid Brunswick",
+               "startDateTime":"2023-06-10 01:00:00.000",
+               "endDateTime":"2023-06-10 02:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Paledusk",
+               "startDateTime":"2023-06-10 23:35:00.000",
+               "endDateTime":"2023-06-11 00:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"HIGHWAY TO HELL",
+               "startDateTime":"2023-06-11 20:10:00.000",
+               "endDateTime":"2023-06-11 20:55:00.000",
+               "notify":false
+            },
+            {
+               "name":"AZ-KVÍZ",
+               "startDateTime":"2023-06-11 16:05:00.000",
+               "endDateTime":"2023-06-11 16:50:00.000",
+               "notify":false
+            },
+            {
+               "name":"LØLØ",
+               "startDateTime":"2023-06-11 21:35:00.000",
+               "endDateTime":"2023-06-11 22:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"ČT FILM: Vinyl",
+               "startDateTime":"2023-06-11 12:20:00.000",
+               "endDateTime":"2023-06-11 13:05:00.000",
+               "notify":false
+            },
+            {
+               "name":"Televize Estráda",
+               "startDateTime":"2023-06-11 14:50:00.000",
+               "endDateTime":"2023-06-11 15:35:00.000",
+               "notify":false
+            },
+            {
+               "name":"Pastoral Brothers",
+               "startDateTime":"2023-06-11 13:35:00.000",
+               "endDateTime":"2023-06-11 14:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"girli",
+               "startDateTime":"2023-06-11 23:00:00.000",
+               "endDateTime":"2023-06-12 00:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"PSH Live Band",
+               "startDateTime":"2023-06-11 18:45:00.000",
+               "endDateTime":"2023-06-11 19:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"Kašpárek v rohlíku",
+               "startDateTime":"2023-06-11 17:30:00.000",
+               "endDateTime":"2023-06-11 18:15:00.000",
+               "notify":false
+            }
+         ]
+      },
+      {
+         "name":"STAGE PETRA SVOBODY",
+         "events":[
+            {
+               "name":"Something Like",
+               "startDateTime":"2023-06-08 13:00:00.000",
+               "endDateTime":"",
+               "notify":false
+            },
+            {
+               "name":"Versatiles",
+               "startDateTime":"2023-06-08 13:00:00.000",
+               "endDateTime":"2023-06-08 17:10:00.000",
+               "notify":false
+            },
+            {
+               "name":"No Face No Case",
+               "startDateTime":"2023-06-08 13:00:00.000",
+               "endDateTime":"2023-06-08 17:10:00.000",
+               "notify":false
+            },
+            {
+               "name":"Goofy Cow",
+               "startDateTime":"2023-06-08 13:00:00.000",
+               "endDateTime":"2023-06-08 17:10:00.000",
+               "notify":false
+            },
+            {
+               "name":"Noisetrap",
+               "startDateTime":"2023-06-08 13:00:00.000",
+               "endDateTime":"2023-06-08 17:10:00.000",
+               "notify":false
+            },
+            {
+               "name":"Vyhlášení vítěze Planetrox",
+               "startDateTime":"2023-06-08 21:15:00.000",
+               "endDateTime":"2023-06-08 21:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"Planetrox Finále EU",
+               "startDateTime":"2023-06-08 13:00:00.000",
+               "endDateTime":"2023-06-08 17:10:00.000",
+               "notify":false
+            },
+            {
+               "name":"The Foxies",
+               "startDateTime":"2023-06-08 19:00:00.000",
+               "endDateTime":"2023-06-08 19:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"Lety Mimo",
+               "startDateTime":"2023-06-08 23:00:00.000",
+               "endDateTime":"2023-06-09 00:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"EVERSAME",
+               "startDateTime":"2023-06-09 12:30:00.000",
+               "endDateTime":"2023-06-09 13:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"LIQUID JESUS",
+               "startDateTime":"2023-06-09 11:30:00.000",
+               "endDateTime":"2023-06-09 12:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"KELSY KARTER & THE HEROINES",
+               "startDateTime":"2023-06-09 18:00:00.000",
+               "endDateTime":"2023-06-09 18:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"rikas",
+               "startDateTime":"2023-06-09 23:35:00.000",
+               "endDateTime":"2023-06-10 00:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"SMALL TOWN LIFE",
+               "startDateTime":"2023-06-09 01:00:00.000",
+               "endDateTime":"2023-06-09 02:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Cold Years",
+               "startDateTime":"2023-06-09 15:35:00.000",
+               "endDateTime":"2023-06-09 16:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"Horrible Creatures",
+               "startDateTime":"2023-06-09 13:55:00.000",
+               "endDateTime":"2023-06-09 14:40:00.000",
+               "notify":false
+            },
+            {
+               "name":"Sunset Trail",
+               "startDateTime":"2023-06-09 21:00:00.000",
+               "endDateTime":"2023-06-09 21:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"READYMADE BACKSLIDERS",
+               "startDateTime":"2023-06-10 12:25:00.000",
+               "endDateTime":"2023-06-10 12:55:00.000",
+               "notify":false
+            },
+            {
+               "name":"MR. MOSS",
+               "startDateTime":"2023-06-10 11:25:00.000",
+               "endDateTime":"2023-06-10 11:55:00.000",
+               "notify":false
+            },
+            {
+               "name":"LIZZIE ESAU",
+               "startDateTime":"2023-06-10 01:00:00.000",
+               "endDateTime":"2023-06-11 02:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Invisions",
+               "startDateTime":"2023-06-10 18:00:00.000",
+               "endDateTime":"2023-06-10 18:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"heriot",
+               "startDateTime":"2023-06-10 15:45:00.000",
+               "endDateTime":"2023-06-10 16:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"MONSTERS & MOTHERSHIPS",
+               "startDateTime":"2023-06-10 23:35:00.000",
+               "endDateTime":"2023-06-11 00:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"Banji (etep)",
+               "startDateTime":"2023-06-10 21:00:00.000",
+               "endDateTime":"2023-06-10 21:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"Brando’s Eyes",
+               "startDateTime":"2023-06-10 13:50:00.000",
+               "endDateTime":"2023-06-10 14:35:00.000",
+               "notify":false
+            },
+            {
+               "name":"Youth Sector",
+               "startDateTime":"2023-06-11 13:05:00.000",
+               "endDateTime":"2023-06-11 13:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"Mean Daddies",
+               "startDateTime":"2023-06-11 11:35:00.000",
+               "endDateTime":"2023-06-11 12:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"Bez ladu a skladu",
+               "startDateTime":"2023-06-11 14:35:00.000",
+               "endDateTime":"2023-06-11 15:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"Tigress",
+               "startDateTime":"2023-06-11 23:00:00.000",
+               "endDateTime":"2023-06-12 00:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"RedHook",
+               "startDateTime":"2023-06-11 19:05:00.000",
+               "endDateTime":"2023-06-11 19:50:00.000",
+               "notify":false
+            },
+            {
+               "name":"Radosta",
+               "startDateTime":"2023-06-11 16:30:00.000",
+               "endDateTime":"2023-06-11 17:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"Insania",
+               "startDateTime":"2023-06-11 21:35:00.000",
+               "endDateTime":"2023-06-11 22:20:00.000",
+               "notify":false
+            }
+         ]
+      },
+      {
+         "name":"CONFERENCE STAGE",
+         "events":[
+            {
+               "name":"Ventolin",
+               "startDateTime":"2023-06-08 23:00:00.000",
+               "endDateTime":"2023-06-09 00:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"CzechCrunch: Dumpster diving: Na nákup do popelnice",
+               "startDateTime":"2023-06-08 15:45:00.000",
+               "endDateTime":"2023-06-08 16:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"CO2 nosím: Inovace v módě",
+               "startDateTime":"2023-06-08 18:30:00.000",
+               "endDateTime":"2023-06-08 19:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"Highlights of Rock for People 2023",
+               "startDateTime":"2023-06-08 13:50:00.000",
+               "endDateTime":"2023-06-08 14:35:00.000",
+               "notify":false
+            },
+            {
+               "name":"Annabelle",
+               "startDateTime":"2023-06-08 21:00:00.000",
+               "endDateTime":"2023-06-08 21:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"TBA",
+               "startDateTime":"2023-06-09 17:30:00.000",
+               "endDateTime":"2023-06-09 18:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"Tchert",
+               "startDateTime":"2023-06-09 20:15:00.000",
+               "endDateTime":"2023-06-09 21:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"CzechCrunch: Bydlení v malém",
+               "startDateTime":"2023-06-09 15:10:00.000",
+               "endDateTime":"2023-06-09 15:55:00.000",
+               "notify":false
+            },
+            {
+               "name":"Jak na otevřenou společnost",
+               "startDateTime":"2023-06-09 11:50:00.000",
+               "endDateTime":"2023-06-09 12:35:00.000",
+               "notify":false
+            },
+            {
+               "name":"Sociální sítě a příroda: dvě tváře současnosti",
+               "startDateTime":"2023-06-09 13:30:00.000",
+               "endDateTime":"2023-06-09 14:15:00.000",
+               "notify":false
+            },
+            {
+               "name":"AIKO",
+               "startDateTime":"2023-06-09 23:15:00.000",
+               "endDateTime":"2023-06-10 00:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Manu Destra",
+               "startDateTime":"2023-06-10 23:15:00.000",
+               "endDateTime":"2023-06-11 00:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"MUTANTI HLEDAJ VÝCHODISKO",
+               "startDateTime":"2023-06-11 00:45:00.000",
+               "endDateTime":"2023-06-11 01:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"Představení projektu PMW",
+               "startDateTime":"2023-06-10 17:30:00.000",
+               "endDateTime":"2023-06-10 18:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"MOJE TĚLO JE MOJE",
+               "startDateTime":"2023-06-10 11:50:00.000",
+               "endDateTime":"2023-06-10 12:30:00.000",
+               "notify":false
+            },
+            {
+               "name":"CzechCrunch: Život na houby",
+               "startDateTime":"2023-06-10 15:20:00.000",
+               "endDateTime":"2023-06-10 16:05:00.000",
+               "notify":false
+            },
+            {
+               "name":"Silný Řeči s Jankem Rubešem a Janem Špačkem",
+               "startDateTime":"2023-06-10 13:25:00.000",
+               "endDateTime":"2023-06-10 14:10:00.000",
+               "notify":false
+            },
+            {
+               "name":"Bratři",
+               "startDateTime":"2023-06-11 02:00:00.000",
+               "endDateTime":"2023-06-11 03:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Kluci",
+               "startDateTime":"2023-06-10 20:15:00.000",
+               "endDateTime":"2023-06-10 21:00:00.000",
+               "notify":false
+            },
+            {
+               "name":"Jídlo budoucnosti (Mewery + ProVeg)",
+               "startDateTime":"2023-06-11 16:00:00.000",
+               "endDateTime":"2023-06-11 16:50:00.000",
+               "notify":false
+            },
+            {
+               "name":".themayrevolution",
+               "startDateTime":"2023-06-11 21:00:00.000",
+               "endDateTime":"2023-06-11 21:45:00.000",
+               "notify":false
+            },
+            {
+               "name":"Odstraňování bariér v praxi",
+               "startDateTime":"2023-06-11 11:40:00.000",
+               "endDateTime":"2023-06-11 12:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"CzechCrunch: Biohacking",
+               "startDateTime":"2023-06-11 12:40:00.000",
+               "endDateTime":"2023-06-11 13:20:00.000",
+               "notify":false
+            },
+            {
+               "name":"NOTY VOLE",
+               "startDateTime":"2023-06-11 14:10:00.000",
+               "endDateTime":"2023-06-11 14:55:00.000",
+               "notify":false
+            },
+            {
+               "name":"Pam Rabbit",
+               "startDateTime":"2023-06-11 18:35:00.000",
+               "endDateTime":"2023-06-11 19:20:00.000",
+               "notify":false
+            }
+         ]
+      }
+   ],
+   "weather":[
+      
+   ],
+   "mapUrl":"https://i.postimg.cc/MHB5PZ49/345678365-971944727500992-6585605679028208329-n.png",
+   "iconUrl":"https://rockforpeople.cz/t/front/rfp-2023/logo.png",
+   "map":null,
+   "icon":null
+}
