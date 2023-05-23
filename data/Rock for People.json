@@ -6,6 +6,7 @@
    "stages":[
       {
          "name":"KB",
+         "bands": [],
          "events":[
             {
                "name":"I Prevail",
@@ -125,6 +126,7 @@
       },
       {
          "name":"YOUTUBE MUSIC",
+         "bands": [],
          "events":[
             {
                "name":"Stray From The Path",
@@ -244,6 +246,7 @@
       },
       {
          "name":"EVROPA 2",
+         "bands": [],
          "events":[
             {
                "name":"Th!s",
@@ -375,6 +378,7 @@
       },
       {
          "name":"ČT ART",
+         "bands": [],
          "events":[
             {
                "name":"AZ-KVÍZ",
@@ -596,6 +600,7 @@
       },
       {
          "name":"STAGE PETRA SVOBODY",
+         "bands": [],
          "events":[
             {
                "name":"Something Like",
@@ -793,6 +798,7 @@
       },
       {
          "name":"CONFERENCE STAGE",
+         "bands": [],
          "events":[
             {
                "name":"Ventolin",
@@ -950,7 +956,6 @@
    "weather":[
       
    ],
-   "bands": [],
    "mapUrl":"https://i.postimg.cc/MHB5PZ49/345678365-971944727500992-6585605679028208329-n.png",
    "iconUrl":"https://rockforpeople.cz/t/front/rfp-2023/logo.png",
    "map":null,
