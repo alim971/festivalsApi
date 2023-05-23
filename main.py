@@ -28,7 +28,10 @@ async def get_festivals(response: Response):
         if os.path.isfile(filename):
             file = open(filename, encoding='utf-8')
             data = json.load(file)
-            end_date = datetime.strptime(data['endDate'], '%Y-%m-%dT%H:%M')
+            try:
+                end_date = datetime.strptime(data['endDate'], '%Y-%m-%dT%H:%M')
+            except:
+                end_date = datetime.strptime(data['endDate'], '%Y-%m-%d %H:%M')
             if datetime.now() < end_date:
                 res.append(data['name'])
             file.close()
