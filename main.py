@@ -1,7 +1,8 @@
 import json
 from datetime import datetime
 
-from fastapi import FastAPI, Response
+from fastapi import FastAPI, Query, Response
+from typing import Annotated
 import os
 
 app = FastAPI()
@@ -44,7 +45,7 @@ async def get_festivals(response: Response):
 
 
 @app.get("/festivals/")
-async def get_festivals(response: Response, festivals = None):
+async def get_festivals(response: Response, festivals: Annotated[list[str] | None, Query()] = None):
     dir_path = './data'
     response.headers["charset"] = "utf-8"
 
