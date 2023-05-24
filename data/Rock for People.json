@@ -603,36 +603,6 @@
          "bands": [],
          "events":[
             {
-               "name":"Something Like",
-               "startDateTime":"2023-06-08 13:00:00.000",
-               "endDateTime":"",
-               "notify":false
-            },
-            {
-               "name":"Versatiles",
-               "startDateTime":"2023-06-08 13:00:00.000",
-               "endDateTime":"2023-06-08 17:10:00.000",
-               "notify":false
-            },
-            {
-               "name":"No Face No Case",
-               "startDateTime":"2023-06-08 13:00:00.000",
-               "endDateTime":"2023-06-08 17:10:00.000",
-               "notify":false
-            },
-            {
-               "name":"Goofy Cow",
-               "startDateTime":"2023-06-08 13:00:00.000",
-               "endDateTime":"2023-06-08 17:10:00.000",
-               "notify":false
-            },
-            {
-               "name":"Noisetrap",
-               "startDateTime":"2023-06-08 13:00:00.000",
-               "endDateTime":"2023-06-08 17:10:00.000",
-               "notify":false
-            },
-            {
                "name":"Vyhlášení vítěze Planetrox",
                "startDateTime":"2023-06-08 21:15:00.000",
                "endDateTime":"2023-06-08 21:30:00.000",
