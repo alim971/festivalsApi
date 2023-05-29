@@ -46,7 +46,7 @@
             {
                "name":"NADLIMITY",
                "startDateTime":"2023-06-17 00:15:00.000",
-               "endDateTime":"2023-06-17 1:30:00.000",
+               "endDateTime":"2023-06-17 01:30:00.000",
                "notify":false
             },
             {
@@ -354,7 +354,7 @@
             {
                "name":"Doga",
                "startDateTime":"2023-06-17 00:55:00.000",
-               "endDateTime":"2023-06-17 2:00:00.000",
+               "endDateTime":"2023-06-17 02:00:00.000",
                "notify":false
             },
             {
@@ -414,7 +414,7 @@
             {
                "name":"Krucipusk",
                "startDateTime":"2023-06-18 00:05:00.000",
-               "endDateTime":"2023-06-18 1:45:00.000",
+               "endDateTime":"2023-06-18 01:45:00.000",
                "notify":false
             }
          ]
