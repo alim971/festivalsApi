@@ -165,7 +165,7 @@
          ]
       },
       {
-         "name":"JÄGERMEISTER ELECTRONIC DANCE",
+         "name":"JÄGERMEISTER",
          "events":[
             {
                "name":"The Falconites",
@@ -265,7 +265,7 @@
             {
                "name":"Žlutý Pes",
                "startDateTime":"2023-06-16 16:10:00.000",
-               "endDateTime":"2023-06-17 18:00:00.000",
+               "endDateTime":"2023-06-16 18:00:00.000",
                "notify":false
             },
             {
