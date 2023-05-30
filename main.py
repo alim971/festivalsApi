@@ -52,6 +52,7 @@ async def get_festivals(response: Response, festivals: Annotated[list[str] | Non
     # list to store files
     res = []
 
+
     # Iterate directory
     for path in os.listdir(dir_path):
         filename = os.path.join(dir_path, path)
