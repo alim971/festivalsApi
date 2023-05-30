@@ -1,0 +1,14 @@
+Dobrý deň,.
+mal by som dotaz na jeden právny problém. Vo svojom voľnom čase som vytvoril aplikáciu, ktorá zobrazuje program festivalov a detaily o ňom. Detaily ktoré sú zobrazované:
+- zoznam kapiel krajúcich na festivale
+- časy kedy kapela hrá na ktorom stagy
+- mapa areálu
+Z jedného festivalu, Metalfest, Pragoconcert, mi prišla správa, že všetky tieto informáciu sú chránené autorskými právami a musím ich z aplikácie vymazať. Chcel by som sa preto spýtať, či je to naozaj tak.
+Mapu areálu pochopím, ale nie som si istý najmä zoznamom kapiel (zoznam mien kapiel ktoré na festivale hrajú) a programom - t.j. casy kedy ktorá kapela hrá. Sú tieto informácie naozaj porušením autorských práv?
+
+Moja aplikácia je dostupná zadarmo, bez reklám a bez hocijakého profitu pre mňa.
+
+Vopred ďakujem.
+
+S pozdravom
+Jozef Bugoš
